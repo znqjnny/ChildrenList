@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  Child.cpp
+f:\visual works\childrenlist\childrenlist\child.cpp(43): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(45): warning C4018: '>': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(62): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(64): warning C4018: '>': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(103): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(105): warning C4018: '>': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(123): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(125): warning C4018: '>': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(164): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(166): warning C4018: '>': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(185): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(187): warning C4018: '>': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(228): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(230): warning C4018: '>': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(249): warning C4018: '<': signed/unsigned mismatch
+f:\visual works\childrenlist\childrenlist\child.cpp(251): warning C4018: '>': signed/unsigned mismatch
+  ChildrenDriver.cpp
+  LinkedList.cpp
+  Generating Code...
+  ChildrenList.vcxproj -> F:\visual works\ChildrenList\Debug\ChildrenList.exe
